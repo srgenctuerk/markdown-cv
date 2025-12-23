@@ -37,14 +37,15 @@ September 2021 | January 2022*
 ## Education
 `2024-2026`
 __University of Vienna__
-*Anglophone Literatures and Cultures*
+MA, Anglophone Literatures and Cultures*
 
 `2020-2024`
 __Ege University__
-*Translation and Interpreting Studies*
+*BA, Translation and Interpreting Studies*
 
 `2016-2020`
-*Industrial Automation and Mechatronics*
+__Mazhar Zorlu MTAL__
+*High School Diploma, Industrial Automation and Mechatronics*
 
 ## Skills & Tools
 
