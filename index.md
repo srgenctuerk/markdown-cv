@@ -8,81 +8,74 @@ SEO Content Writer | Vienna, Austria | +43 676 7281467
 <div id="webaddress"> <a href="mailto:gencturk.menes@hotmail.com">gencturk.menes@hotmail.com</a> | <a href="https://www.linkedin.com/in/menesgencturk">My LinkedIn profile</a> </div>
 
 
-## Currently
+## Experience
+
+### Currently
 
 **UX Writer** | *BrainBite*
 *June 2025 – Present* | *'s-Hertogenbosch, Netherlands (Remote)*
 - Designing clear, user-focused copy to improve navigation and digital product interfaces.
 - Collaborating with design teams to ensure a consistent brand voice across all user touchpoints.
+- Creating SEO blog articles to boost visibility for 2026.
 
-### Specialized in
+### Past Experience
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**Communications Intern** | *UNOPS*
+*Vienna, Austria* | *October 2025 – November 2025*
+- Managed official social media accounts, increasing visibility through targeted content creation.
+- Produced multimedia assets using CapCut and Canva to support project goals.
+- Executed cross-platform ad campaigns using Meta Ads to reach international audiences.
 
 
-### Research interests
+**SEO Content Specialist** | *icerik.com*
+*Remote in Turkiye* | *October 2022 – September 2025*
+- Led content strategy for major national and international brands over a three-year period.
+- Produced high-performing SEO content that consistently improved search engine rankings and organic traffic.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+**SEO Content Developer** | *Güzel İçerik*
+*Remote in Turkiye* | *January 2022 – January 2023*
+- Developed SEO-friendly articles in English and Turkish for a diverse portfolio of clients.
+- Adapted international content for local markets, ensuring cultural relevance and natural keyword integration.
 
+**Technical Translator** | *HLM International*
+*İzmir, Türkiye* | *June 2022 – November 2022*
+- Facilitated clear communication in high-stakes meetings through live interpretation.
+- Managed the translation of official technical guidelines and documentation.
+
+**SEO Writer** | *Teknoloji Özeti*
+*September 2021* | *January 2022 *
+- Monitored breaking news in the tech industry to deliver daily, high-quality reports.
+- Designed visual assets for social media to increase reader engagement on Instagram.
 
 ## Education
+`2024-2026`
+__University of Vienna__
+*Anglophone Literatures and Cultures*
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020-2024`
+__Ege University__
+*Translation and Interpreting Studies*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2016-2020`
+*Industrial Automation and Mechatronics*
 
-- Sizar
+## Skills & Tools
 
-`1667 - death`
-__Trinity College, Cambridge__
+**Content**: SEO Writing, UX Writing, Narrative Development, Research.
 
-- Fellow
+**Digital Marketing**: Meta Ads, Social Media Strategy, Blogging.
 
+**Languages**: English (Native/Bilingual), Turkish (Native/Bilingual), German (Full Professional), French (Limited Working).
 
+**Tools**: CapCut, Canva, Hootsuite.
 
-## Awards
+## Certifications
 
-`2012`
-President, *Royal Society*, London, UK
+__Social Media Marketing Professional (Hootsuite)__
 
-Associate, *French Academy of Science*, Paris, France
+__Programming Foundations & Web Programming__
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+__User Experience (UX) for Web Design__
 
 <!-- ### Footer
 
