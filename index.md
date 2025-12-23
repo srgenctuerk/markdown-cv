@@ -3,6 +3,7 @@ layout: cv
 title: GenctuerkMEnes-CV
 ---
 # M. Enes Genctürk
+
 SEO Content Writer | Vienna, Austria | +43 676 7281467
 
 <div id="webaddress"> <a href="mailto:gencturk.menes@hotmail.com">gencturk.menes@hotmail.com</a> | <a href="https://www.linkedin.com/in/menesgencturk">My LinkedIn profile</a> </div>
@@ -10,40 +11,36 @@ SEO Content Writer | Vienna, Austria | +43 676 7281467
 
 ## Experience
 
-### Currently
-
-**UX Writer** | *BrainBite*
-*June 2025 – Present* | *'s-Hertogenbosch, Netherlands (Remote)*
+**UX Writer** | BrainBite
+June 2025 – Present | 's-Hertogenbosch, Netherlands (Remote)
 - Designing clear, user-focused copy to improve navigation and digital product interfaces.
 - Collaborating with design teams to ensure a consistent brand voice across all user touchpoints.
 - Creating SEO blog articles to boost visibility for 2026.
 
-### Past Experience
-
-**Communications Intern** | *UNOPS*
-*Vienna, Austria* | *October 2025 – November 2025*
+**Communications Intern** | UNOPS
+Vienna, Austria | October 2025 – November 2025
 - Managed official social media accounts, increasing visibility through targeted content creation.
 - Produced multimedia assets using CapCut and Canva to support project goals.
 - Executed cross-platform ad campaigns using Meta Ads to reach international audiences.
 
 
-**SEO Content Specialist** | *icerik.com*
-*Remote in Turkiye* | *October 2022 – September 2025*
+**SEO Content Specialist** | icerik.com
+Remote in Turkiye | October 2022 – September 2025
 - Led content strategy for major national and international brands over a three-year period.
 - Produced high-performing SEO content that consistently improved search engine rankings and organic traffic.
 
-**SEO Content Developer** | *Güzel İçerik*
-*Remote in Turkiye* | *January 2022 – January 2023*
+**SEO Content Developer** | Güzel İçerik
+Remote in Turkiye | January 2022 – January 2023
 - Developed SEO-friendly articles in English and Turkish for a diverse portfolio of clients.
 - Adapted international content for local markets, ensuring cultural relevance and natural keyword integration.
 
-**Technical Translator** | *HLM International*
-*İzmir, Türkiye* | *June 2022 – November 2022*
+**Technical Translator** | HLM International
+İzmir, Türkiye | June 2022 – November 2022
 - Facilitated clear communication in high-stakes meetings through live interpretation.
 - Managed the translation of official technical guidelines and documentation.
 
-**SEO Writer** | *Teknoloji Özeti*
-*September 2021* | *January 2022 *
+**SEO Writer** | Teknoloji Özeti
+September 2021 | January 2022
 - Monitored breaking news in the tech industry to deliver daily, high-quality reports.
 - Designed visual assets for social media to increase reader engagement on Instagram.
 
