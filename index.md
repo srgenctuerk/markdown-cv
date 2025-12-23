@@ -49,10 +49,10 @@ __Mazhar Zorlu MTAL__
 
 ## Skills & Tools
 
-**Technical**: Programming Foundations, Web Development, UX for Web Design, Mechatronics.
-**Content**: Technical Documentation, Markdown, SEO, and Creative Research.
-**Languages**: Native/Bilingual English and Turkish, Professional German, Limited Working French.
-**Docs-as-code workflows**: This resume was created in the beloved **Git server of GitHub** using the **markdown** format.
+- **Technical**: Programming Foundations, Web Development, UX for Web Design, Mechatronics.
+- **Content**: Technical Documentation, Markdown, SEO, and Creative Research.
+- **Languages**: Native/Bilingual English and Turkish, Professional German, Limited Working French.
+- **Docs-as-code workflows**: This resume was created in the beloved **Git server of GitHub** using the **markdown** format.
 
 ## Certifications
 
