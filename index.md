@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: GenctuerkMEnes-CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# M. Enes Genctürk
+SEO Content Writer | Vienna, Austria | +43 676 7281467
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<div id="webaddress"> <a href="mailto:gencturk.menes@hotmail.com">gencturk.menes@hotmail.com</a> | <a href="https://www.linkedin.com/in/menesgencturk">My LinkedIn profile</a> </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+**UX Writer** | *BrainBite*
+*June 2025 – Present* | *'s-Hertogenbosch, Netherlands (Remote)*
+- Designing clear, user-focused copy to improve navigation and digital product interfaces.
+- Collaborating with design teams to ensure a consistent brand voice across all user touchpoints.
 
 ### Specialized in
 
